@@ -4,6 +4,7 @@ import Examples from "./components/Examples.jsx";
 
 function App() {
   return (
+    // nice and clear built with the use of components feature of React
     <>
       <Header />
       <main>
