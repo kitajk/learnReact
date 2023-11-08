@@ -9,7 +9,7 @@ function App() {
       <Header />
       <main>
         <CoreConcepts />
-        <Examples />
+        <Examples/>
       </main>
     </>
   );
